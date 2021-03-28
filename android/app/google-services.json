@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258093545071",
+    "firebase_url": "https://chatapp-6fddd-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-6fddd",
+    "storage_bucket": "chatapp-6fddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258093545071:android:0b27483175604e1d49bf9a",
+        "android_client_info": {
+          "package_name": "com.latihanproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258093545071-40c5pigqsc0sogklmb6pu5f6beak91t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuQKZmRFrhXeBYAFeUkkDth3fCwKNc8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258093545071-40c5pigqsc0sogklmb6pu5f6beak91t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
